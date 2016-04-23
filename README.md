@@ -26,7 +26,6 @@ USER INSTRUCTIONS:
 >>createContact.java is the menu for type of contact.Each button has its separate frame .DateChooser is used here.
 
 >>SearchContact.java is similar to search option in phones.
->>The file handling was not working in my previous submission. I have ensured it works this time around.
 
 <Applet>
 >>The complete code of application is used , frames are replaced by panels , with the exception of MessageDialogs.Images have been removed as applet(which runs in browser ) cannot handle files on a local system . (^^See how to start this project).
