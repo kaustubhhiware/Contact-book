@@ -9,12 +9,12 @@ Alternately , check here :http://superuser.com/questions/487471/how-to-make-inte
 After that , go to Control Panel->
 Java->Security and add the Contact.htm (in bin folder) to the exception list in the format : file:///<Complete workspace location or where software package is saved>/Contact_Interface/bin/Contact.htm
 Then , launch Contact.htm in bin folder in internet explorer .You can now proceed to use it as the user wishes.
-I have added screenshots for the working applet in a separate folder.
+Screenshots have been added for the working applet in a separate folder.
 
 <Application>
-Directly run ContactBook.jar if it runs .In ubuntu , you might have to write this in terminal
+Directly run Phone.jar if it runs .In ubuntu , you might have to write this in terminal
 cd <location>
-sudo chmod a+x ContactBook.jar
+sudo chmod a+x Phone.jar
 If none of this works , start it in the default way by running in Eclipse/NetBeans
 
 
