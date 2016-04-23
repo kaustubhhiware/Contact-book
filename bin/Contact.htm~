@@ -1,0 +1,9 @@
+<html>
+<title>The Contacts Applet</title>
+<hr>
+<applet code="Contact_applet.class" width="450" height="400">
+If your browser was Java-enabled, a "Hello, World"
+message would appear here.
+</applet>
+<hr>
+</html>
